@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-
+// Menü zur Verwaltung der Schüler
         Scanner scanner = new Scanner(System.in);
 
         Schueler[] schueler = new Schueler[10];
