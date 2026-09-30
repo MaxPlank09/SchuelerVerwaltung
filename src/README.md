@@ -1,3 +1,3 @@
 # Schülerverwaltung
 
-Java-Konsolenanwendung zur Verwaltung von Schülern.
+Java-Projekt zur Verwaltung von Schülern.
